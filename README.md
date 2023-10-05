@@ -16,3 +16,5 @@ deno task start
 ```
 
 This will watch the project directory and restart as necessary.
+
+Deployed version (using Deno deploy): https://fresh-demo-blog.deno.dev
