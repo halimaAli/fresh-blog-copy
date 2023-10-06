@@ -1,7 +1,6 @@
 # Fresh project
 
-This is a Website specifically created to test out the features of Fresh.<br>
-It is part of the paper "Fresh the next-gen Framework".
+This code is a duplicate of a website I created for my paper titled 'Fresh: Das Next Gen Framework,' specifically designed to explore the features of Fresh.
 
 ### Usage
 
