@@ -1,6 +1,6 @@
 # Fresh project
 
-This code is a duplicate of a website I created for my paper titled 'Fresh: Das Next Gen Framework,' specifically designed to explore the features of Fresh.
+This code is a duplicate of a website I created for my paper titled ['Fresh: Das Next Gen Framework'](https://github.com/halimaAli/fresh-blog-copy/blob/main/'Fresh%20Das%20Next%20Gen%20Framework'.pdf), specifically designed to explore the features of Fresh.
 
 ### Usage
 
